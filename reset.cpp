@@ -1,3 +1,5 @@
+//Deepti Emmi
+//23070123049
 #include<iostream>
 using namespace std;
 int main(){
@@ -10,3 +12,8 @@ x=00000001<<reset;
 output= num&(~x);
 cout<<"Set number is "<<output ;
 }
+/* Output-
+ * cout<<"Enter the number to reset5
+Enter the bit to set2
+Set number is5 
+ */
